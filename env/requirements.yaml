@@ -13,3 +13,6 @@ dependencies:
 - name: react-demo1
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: simple-node-js-react-npm-app
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
